@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Adrian 👋 ⚡
 
+
+You can find me:
+- [Twitter]
+- [Instagram]
+- [Gmail](agyaniri@gmail.com)
+
+[!
 <!--
 **adrianyaniri/adrianyaniri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,7 +6,6 @@ You can find me:
 - [Instagram]
 - [Gmail](agyaniri@gmail.com)
 
-[!
 <!--
 **adrianyaniri/adrianyaniri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
